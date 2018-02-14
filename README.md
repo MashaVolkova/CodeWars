@@ -14,7 +14,6 @@ https://www.codewars.com/kata/even-or-odd
 
 https://www.codewars.com/kata/cat-years-dog-years
 
-https://www.codewars.com/kata/multiply
 
 7kyu:
 https://www.codewars.com/kata/find-the-smallest-integer-in-the-array
