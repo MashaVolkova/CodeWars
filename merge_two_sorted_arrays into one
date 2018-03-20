@@ -1,0 +1,4 @@
+def merge_arrays(arr1, arr2):
+    new_arr = list(set(arr1 + arr2))
+    new_arr.sort()
+    return new_arr
